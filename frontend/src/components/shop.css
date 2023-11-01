@@ -1,0 +1,14 @@
+.cat {
+  text-decoration: underline;
+  font-size: large;
+  font-weight: 700;
+  padding-top: 50px;
+}
+.title {
+  padding-top: 30px;
+  font-weight: 600;
+}
+.desc {
+  line-height: normal;
+  color: rgb(129, 121, 107);
+}

@@ -1,0 +1,22 @@
+.navbar {
+  background-color: black;
+  padding: 20%;
+}
+.navbar-title {
+  color: white;
+  align-items: center;
+  justify-content: center;
+  margin-left: 4%;
+}
+.navbar-links {
+  display: flex;
+  width: 30%;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+}
+
+.dec {
+  text-decoration: none;
+  color: white;
+}
