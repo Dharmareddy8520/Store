@@ -18,7 +18,6 @@ function App() {
             <Route path="/" element={<Shop />} />
             <Route path="/auth" element={<Register />} />
             <Route path="/login" element={<Login />} />
-
             <Route path="/checkout" element={<Checkout />} />
             <Route path="/checkout/purchase" element={<Purchase />} />
           </Routes>
